@@ -14,4 +14,4 @@ This is an autokey script that toggles capslock for each keypress so you can mem
 10. Press WindowsKey and X together to initialize the script
 11. Press WindowsKey and Z together to start the script
 12. Press WindowsKey and Z together to pause the script
-13. Right click the Green 'H' in teh Windows system tray and select 'Exit' to quit
+13. Right click the Green 'H' in the Windows system tray and select 'Exit' to quit
